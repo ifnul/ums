@@ -1,4 +1,4 @@
-[ifnul.github.io/ums/](http://ifnul.github.io/ums/)
+##[ifnul.github.io/ums/](http://ifnul.github.io/ums/)
 
 ##What is this repository for?
 >This is open source university management system, developed for Lviv National University of Ivan Franko.
