@@ -1,0 +1,3 @@
+[submodule "ums-backend"]
+	path = ums-backend
+	url = git@github.com:ifnul/ums-backend.git
