@@ -1,3 +1,6 @@
 [submodule "ums-backend"]
 	path = ums-backend
 	url = git@github.com:ifnul/ums-backend.git
+[submodule "ums-admission-frontend"]
+	path = ums-admission-frontend
+	url = git@github.com:ifnul/ums-admission-frontend.git
