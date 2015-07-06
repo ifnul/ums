@@ -7,3 +7,6 @@
 [submodule "ums-edbo"]
 	path = ums-edbo
 	url = git@github.com:ifnul/ums-edbo.git
+[submodule "ums-tools"]
+	path = ums-tools
+	url = git@github.com:ifnul/ums-tools.git
